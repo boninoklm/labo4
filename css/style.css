@@ -1,0 +1,30 @@
+body
+{
+  background-image: url("/image/cinema.jpg");
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+h1
+{
+  color: aliceblue;
+}
+.Producteur
+{
+  list-style: none;
+  font-size: 25px;
+  color: greenyellow;
+}
+ol
+{
+  list-style: upper-latin;
+  color: aliceblue;
+  font-size: 16px;
+}
+.point
+{
+  font-size: 16px;
+list-style: disc;
+color: aliceblue;
+}
